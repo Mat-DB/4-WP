@@ -1,2 +1,2 @@
 # 4-WP
-Code voor het verwerken van GPS data
+Deze code is geschreven voor het verwerken van gps data tijdens het vak 4-Wetenschappelijk project.
